@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">¡Hola 👋! Mi nombre es Juan</h1>
+<h1 align="center">¡Hola 👋!</h1>
 
 ###
 
