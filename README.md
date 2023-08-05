@@ -5,10 +5,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  
+  
+
+  <a href="https://www.instagram.com/juanlorenzoalba/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="http://www.lostejos.com"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+  
 </div>
 
 ###
@@ -21,7 +23,8 @@
 
 ###
 
-<p align="left">Soy de Argentina, Buenos Aires<br><br>- 📚 Actualmente estoy estudiando Ing Informatica<br>- ⚡ En mi tiempo libre hago ejercicio y leo temas que me interesen</p>
+<p align="left">Soy un apasionado de la informática y la tecnología, con un enfoque especial en el desarrollo de software. Mi experiencia se centra en el mundo de la programación, donde he trabajado con lenguajes como C#, .NET, HTML5, CSS y JavaScript para crear aplicaciones y sitios web innovadores y funcionales<br><br>
+Disfruto explorando soluciones creativas para desafíos técnicos y buscando formas de mejorar la experiencia del usuario a través de interfaces atractivas y funcionales. He tenido la oportunidad de trabajar en proyectos diversos, desde aplicaciones de escritorio hasta aplicaciones web interactivas, lo que me ha brindado una perspectiva amplia y versátil. Mi objetivo es seguir creciendo como profesional de la informática, aprendiendo constantemente y aplicando mis conocimientos para crear soluciones tecnológicas impactantes</p>
 
 ###
 
