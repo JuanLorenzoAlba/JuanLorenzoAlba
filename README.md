@@ -54,11 +54,3 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 </div>
 
 ###
-
-<h3 align="left">🔥 Contribuciones:</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/juanlorenzoalba/juanlorenzoalba/output/snake.svg" alt="Snake animation" />
-
-###
