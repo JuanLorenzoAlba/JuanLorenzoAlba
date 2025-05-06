@@ -81,7 +81,7 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 
 ##
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanLorenzoAlba&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanLorenzoAlba&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
