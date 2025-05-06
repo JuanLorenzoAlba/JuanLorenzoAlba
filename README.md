@@ -16,9 +16,6 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  width ="25"><b> Skills</b>
 
-
-<h3 align="left">Languages and Tools:</h3>
-
 <!-- Lenguajes de Programación -->
 <h4 align="left">🧠 Lenguajes de Programación</h4>
 <p align="left">
